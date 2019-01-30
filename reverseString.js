@@ -38,7 +38,7 @@ function reverse2(str) {
 reverse("hello")
 
 // Setting up a debugger
-// node inspect file.js
+// node inspect file.jsnod
 // If you want to continue the function or execution, type cont or c
 // And then type repl to launch repl session where you can type in variables and see their values
 // To exit repl mode, contrl + c
